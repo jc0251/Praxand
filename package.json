@@ -1,0 +1,30 @@
+{
+  "name": "praxand",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jc0251/Praxand.git"
+  },
+  "keywords": [],
+  "author": "Jay Cheung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jc0251/Praxand/issues"
+  },
+  "homepage": "https://github.com/jc0251/Praxand#readme",
+  "devDependencies": {
+    "eslint": "^8.16.0",
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "discord-api-types": "^0.33.1",
+    "discord.js": "^13.7.0"
+  }
+}
